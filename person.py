@@ -1,4 +1,5 @@
 import random
+from virus import Virus
 
 class Person(object):
     '''
